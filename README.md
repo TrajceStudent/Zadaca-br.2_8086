@@ -5,7 +5,7 @@ For the microprocessor system implemented in the previous task, write a routine 
 
 ![Screenshot (1)](https://github.com/TrajceStudent/Zadaca-br.2_8086/blob/main/8.1.png  )
 ![Screenshot (1)](https://github.com/TrajceStudent/Zadaca-br.2_8086/blob/main/8.2.png)
-![Screenshot (1)]()
+![Screenshot (1)](https://github.com/TrajceStudent/Zadaca-br.2_8086/blob/main/8.3.png)
 ![Screenshot (1)]()
 ![Screenshot (1)]()
 
